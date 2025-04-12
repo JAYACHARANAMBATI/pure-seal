@@ -10,7 +10,7 @@ const Footer = () => {
         <Row>
           <Col md={4} className="mb-4 mb-md-0">
             <img
-              src="/src/assets/ChatGPT Image Apr 12, 2025, 01_28_47 PM.png"
+              src="https://res.cloudinary.com/dzc70c3lw/image/upload/v1744471113/ChatGPT_Image_Apr_12_2025_01_28_47_PM_kugj21.png"
               alt="PureSeal Logo"
               style={{ height: "40px", marginBottom: "1rem" }}
             />

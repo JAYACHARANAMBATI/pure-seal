@@ -5,7 +5,7 @@ const Product = () => {
       <div className="product-hero">
         <div className="product-image">
           <img
-            src="/src/assets/Screenshot 2025-04-12 140606.png"
+            src="https://res.cloudinary.com/dzc70c3lw/image/upload/v1744471113/Screenshot_2025-04-12_140606_soughh.png"
             alt="PureSeal Milk Pouch"
             className="product-image"
           />
